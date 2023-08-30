@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/micuapp-client/build/static/css/main.c699493f.css",
+    "main.js": "/micuapp-client/build/static/js/main.8fc2cd55.js",
+    "static/js/787.a321b7bd.chunk.js": "/micuapp-client/build/static/js/787.a321b7bd.chunk.js",
+    "static/media/Img_aprender.png": "/micuapp-client/build/static/media/Img_aprender.46c6447a476bbc210e93.png",
+    "static/media/Img_Flashcards.png": "/micuapp-client/build/static/media/Img_Flashcards.ced2325bed2afd057d35.png",
+    "static/media/Img_MartaGomez.png": "/micuapp-client/build/static/media/Img_MartaGomez.47cedf98511733bace4b.png",
+    "static/media/Img_Videoclip.png": "/micuapp-client/build/static/media/Img_Videoclip.03c31ed8e45766ad11bc.png",
+    "static/media/Ambiente.png": "/micuapp-client/build/static/media/Ambiente.dcfda938cbde9aebcc43.png",
+    "static/media/celebracion.mp3": "/micuapp-client/build/static/media/celebracion.c1059af2bf2af699ceed.mp3",
+    "static/media/Success_Sound_Effect.mp3": "/micuapp-client/build/static/media/Success_Sound_Effect.1e2e39bcb2126e71f485.mp3",
+    "static/media/Logo_Micukids_horizontal.png": "/micuapp-client/build/static/media/Logo_Micukids_horizontal.52886472c033a4176bd3.png",
+    "static/media/Bg_memory_large.png": "/micuapp-client/build/static/media/Bg_memory_large.1bfa2d74141c7fc17de2.png",
+    "static/media/Bg_memory.png": "/micuapp-client/build/static/media/Bg_memory.cec43fb5ee084f0174a3.png",
+    "static/media/Logo_Micu_cuadrado.png": "/micuapp-client/build/static/media/Logo_Micu_cuadrado.d02f1a0252eb7bf1a387.png",
+    "static/media/Bg_flip.jpg": "/micuapp-client/build/static/media/Bg_flip.3de06ba0eb0adb500165.jpg",
+    "static/media/Bg_parents.jpg": "/micuapp-client/build/static/media/Bg_parents.a8a834477fd6375cd10e.jpg",
+    "static/media/Bg_memory_mobile.png": "/micuapp-client/build/static/media/Bg_memory_mobile.ea40101682832d385cfe.png",
+    "static/media/Bg_Memoryboard.jpg": "/micuapp-client/build/static/media/Bg_Memoryboard.e298d83d552c2d80c25a.jpg",
+    "static/media/Bg_redes.png": "/micuapp-client/build/static/media/Bg_redes.f82be9ddec91474401ad.png",
+    "static/media/insta.svg": "/micuapp-client/build/static/media/insta.dbbe9aa876753ccbe58554106a02f852.svg",
+    "static/media/i_instagram_white.svg": "/micuapp-client/build/static/media/i_instagram_white.3960718f3713301b67693947c0cd78c3.svg",
+    "static/media/icon-circle-facebook-.svg": "/micuapp-client/build/static/media/icon-circle-facebook-.9532420ca20ce9d132a4c2d0d92b8e05.svg",
+    "static/media/i_facebook_white.svg": "/micuapp-client/build/static/media/i_facebook_white.27b8eee6f7c737b216dce0b7d70118ce.svg",
+    "static/media/icon-you.svg": "/micuapp-client/build/static/media/icon-you.ac4a4ba32d466dc1684e2223feac11ce.svg",
+    "static/media/i_youtube_white.svg": "/micuapp-client/build/static/media/i_youtube_white.429748b911d3cbf440048b35a4cb4b78.svg",
+    "index.html": "/micuapp-client/build/index.html",
+    "main.c699493f.css.map": "/micuapp-client/build/static/css/main.c699493f.css.map",
+    "main.8fc2cd55.js.map": "/micuapp-client/build/static/js/main.8fc2cd55.js.map",
+    "787.a321b7bd.chunk.js.map": "/micuapp-client/build/static/js/787.a321b7bd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c699493f.css",
+    "static/js/main.8fc2cd55.js"
+  ]
+}
